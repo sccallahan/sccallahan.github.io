@@ -15,7 +15,7 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=HNtl0w8A
 
 ## Contact
 
-You can reach me pretty easily on social media/email!:
+You can reach me pretty easily via social media/email!:
 
 - [Github](https://github.com/sccallahan)
 - [Twitter](https://twitter.com/scarsoncallahan)

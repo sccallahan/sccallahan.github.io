@@ -3,11 +3,11 @@ Hi everyone, I'm Carson. I'm currently an M4 MD/PhD student at the [MSTP - UT Ho
 
 ## Education
 
-2022 - The University of Texas McGovern Medical School, Houston TX, MD
+2022 - The University of Texas McGovern Medical School, Houston TX, **MD**
 
-2022 - MD Anderson Cancer Center UTHealth Graduate School of Biomedical Sciences, Houston TX, PhD Cancer Biology
+2022 - MD Anderson Cancer Center UTHealth Graduate School of Biomedical Sciences, Houston TX, **PhD Cancer Biology**
 
-2013 - Emory University, Atlanta GA, BA Chemistry
+2013 - Emory University, Atlanta GA, **BA Chemistry**
 
 ## Publications
 
@@ -17,6 +17,5 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=HNtl0w8A
 
 Here are some other fun links to check out!:
 
-[Github](https://github.com/sccallahan)
-
-[Twitter](https://twitter.com/scarsoncallahan)
+- [Github](https://github.com/sccallahan)
+- [Twitter](https://twitter.com/scarsoncallahan)

@@ -13,9 +13,10 @@ Hi everyone, I'm Carson. I'm currently an M4 MD/PhD student at the [MSTP - UT Ho
 
 Check out my [Google Scholar](https://scholar.google.com/citations?user=HNtl0w8AAAAJ&hl=en)!
 
-## Socials
+## Contact
 
-Here are some other fun links to check out!:
+You can reach me pretty easily on social media/email!:
 
 - [Github](https://github.com/sccallahan)
 - [Twitter](https://twitter.com/scarsoncallahan)
+- [Email](mailto:scarsoncallahan@protonmail.com)

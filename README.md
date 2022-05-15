@@ -1,5 +1,7 @@
 ## About
-Hi everyone, I'm Carson. I'm currently an M4 MD/PhD student at the [MSTP - UT Houston](https://gsbs.uth.edu/mdphd/) program, a joint effort between the University of Texas McGovern Medical School and MD Anderson Cancer Center UTHealth Graduate School of Biomedical Sciences! My PhD research was conducted in the labs of [Jeffrey N. Myers](https://faculty.mdanderson.org/profiles/jeffrey_myers.html) and [Kunal Rai](http://www.railab.org/) and focused on the (epi)genomic regulation of head and neck squamous cell carcinoma. I'm currently applying to Radiation Oncology residencies for the 2021-2022 application cycle!
+Hi everyone, I'm Carson. I'm a recent MD/PhD graduate of the [MSTP - UT Houston](https://gsbs.uth.edu/mdphd/) program, a joint effort between the University of Texas McGovern Medical School and MD Anderson Cancer Center UTHealth Graduate School of Biomedical Sciences! My PhD research was conducted in the labs of [Jeffrey N. Myers](https://faculty.mdanderson.org/profiles/jeffrey_myers.html) and [Kunal Rai](http://www.railab.org/) and focused on the (epi)genomic regulation of head and neck squamous cell carcinoma.
+
+I'm an incoming prelim IM resident at [the University of Wisconsin](https://www.medicine.wisc.edu/housestaff/university-wisconsin-internal-medicine-residency-program). After my intern year, I will continue my training in Radiation Oncology in the [Univeristy of Wisconsin Department of Human Oncology](https://www.humonc.wisc.edu/).
 
 ## Education
 
